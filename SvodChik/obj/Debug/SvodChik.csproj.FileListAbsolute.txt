@@ -1,0 +1,10 @@
+D:\Projects\SvodChik\SvodChik\bin\Debug\SvodChik.exe.config
+D:\Projects\SvodChik\SvodChik\bin\Debug\SvodChik.exe
+D:\Projects\SvodChik\SvodChik\bin\Debug\SvodChik.pdb
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.csprojAssemblyReference.cache
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.Properties.Resources.resources
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.csproj.GenerateResource.cache
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.csproj.CoreCompileInputs.cache
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.exe
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.pdb
+D:\Projects\SvodChik\SvodChik\obj\Debug\SvodChik.MainWindow.resources
