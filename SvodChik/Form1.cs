@@ -87,7 +87,6 @@ namespace SvodChik
             }
 
         }
-        //fuck this shit
 
 
         private class User32
