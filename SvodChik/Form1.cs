@@ -87,6 +87,7 @@ namespace SvodChik
             }
 
         }
+        //some comment
 
 
         private class User32
